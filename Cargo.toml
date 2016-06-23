@@ -1,0 +1,6 @@
+[package]
+name = "task"
+version = "0.1.0"
+authors = ["maik <maikklein@googlemail.com>"]
+
+[dependencies]
